@@ -1,0 +1,10 @@
+.agents/
+.config/
+.replit
+generated-icon.png
+poetry.lock
+pyproject.toml
+pyproject.toml.working
+replit.nix
+VENV.md
+.DS_Store
